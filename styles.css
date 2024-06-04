@@ -1,0 +1,120 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #333;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
+
+/* Home section */
+#home {
+    background: url('banner.jpg') no-repeat center center/cover;
+    color: #fff;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#home p {
+    font-size: 1.2em;
+}
+
+/* About section */
+#about {
+    background: #fff;
+}
+
+#about p {
+    margin-bottom: 10px;
+}
+
+#about h3 {
+    margin-top: 20px;
+}
+
+/* Highlights section */
+#highlights {
+    background: #f4f4f4;
+}
+
+#highlights h3 {
+    margin-top: 20px;
+}
+
+#highlights ul {
+    list-style: disc inside;
+}
+
+#highlights ul li {
+    margin-bottom: 10px;
+}
+
+/* Portfolio section */
+#portfolio {
+    background: #fff;
+}
+
+/* Testimonials section */
+#testimonials {
+    background: #f4f4f4;
+}
+
+#testimonials p {
+    font-style: italic;
+    margin-bottom: 10px;
+}
+
+/* Contact section */
+#contact {
+    background: #fff;
+}
+
+#contact p {
+    margin-bottom: 10px;
+}
