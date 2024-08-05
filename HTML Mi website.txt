@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joel Abadi - Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#highlights">Highlights</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Welcome to My Website</h1>
+        <p>Discover my professional journey and achievements.</p>
+        <p><strong>Tagline:</strong> Experienced Data Analyst and Media Buyer with a Proven Track Record in Digital Marketing</p>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>My experience spans marketing, PPC campaigns, data analysis, and content marketing with a deep interest in technology, making me a strong fit for any team. I have a background in managing large-scale PPC campaigns with budgets exceeding $1.5 million and consistently achieving a ROI of 120%. My analytical thinking, SEO expertise, and content strategy skills have been honed through challenging roles in dynamic environments.</p>
+        <p>At my previous job, I led PPC campaigns with monthly budgets of over 1.5 million dollars and achieved a consistent ROI of 120%, all while being the sole Data Analyst and Media Buyer. This role challenged my skills in analytical thinking, SEO, and content strategy. I’ve successfully collaborated with marketing teams to optimize content and achieve goals, proving my ability to deliver quality results on tight deadlines in dynamic environments. I believe my blend of technical expertise and passion for digital marketing aligns perfectly with your objectives.</p>
+        <h3>Education</h3>
+        <p><strong>Business and Administration with Specialization in Marketing</strong> – Reichman University, Herzliya, Israel (07/2019)</p>
+        <h3>Languages</h3>
+        <p>English – Native or Bilingual<br>
+        Spanish – Native or Bilingual<br>
+        Hebrew – Working Proficiency</p>
+    </section>
+
+    <section id="highlights">
+        <h2>Highlights</h2>
+        <h3>Data Analyst and Media Buyer at Decido (Dec 2023 - Present)</h3>
+        <ul>
+            <li>Optimized marketing campaigns by analyzing trends and data.</li>
+            <li>Ensured prime advertising placements to maximize investments.</li>
+            <li>Created engaging content to build lasting audience relationships.</li>
+            <li>Skills: Fully bilingual English, Online Campaign Management, Content Writing, Data Analysis, New Media Marketing, Media Buying, Looker Data Studio, Advertising Campaigns, Creative Content Creation, Marketing Metrics.</li>
+        </ul>
+        <h3>Data Analyst and Media Buyer at Singular One (Mar 2022 - Aug 2023)</h3>
+        <ul>
+            <li>Managed and optimized marketing campaigns to identify trends and anomalies.</li>
+            <li>Negotiated advertising space for quality and optimal placement.</li>
+            <li>Skills: Fully bilingual English, Online Campaign Management, Social Media, Attention to Detail, Optimization, CRM, New Media Marketing, Google Ads, Advertising Campaigns, Social Media Advertising, Native Advertising, Analytical Skills, Data Interpretation, Marketing Metrics.</li>
+        </ul>
+        <h3>Marketing Content Specialist at Singular One (Dec 2021 - Mar 2022)</h3>
+        <ul>
+            <li>Created marketing strategies to attract and retain audiences through various media platforms.</li>
+            <li>Skills: Fully bilingual English, Online Campaign Management, Social Media, Attention to Detail, Advertising Campaigns, Analytical Skills, Marketing Metrics.</li>
+        </ul>
+        <h3>Customer Service Specialist at eToro (Feb 2021 - Sep 2021)</h3>
+        <ul>
+            <li>Resolved customer issues and achieved a 100% success rate.</li>
+            <li>Skills: Fully bilingual English, Online Campaign Management, Attention to Detail, CRM, Customer Experience, Client Accounts, Marketing Metrics, Client Relations.</li>
+        </ul>
+        <h3>Content Writer at Anshar Studios Inc. (Nov 2020 - Mar 2021)</h3>
+        <ul>
+            <li>Created content and campaigns for a strategic simulation game.</li>
+            <li>Skills: Fully bilingual English, Attention to Detail, Analytical Skills, Gaming Industry.</li>
+        </ul>
+        <h3>Sales Agent at Remez Capital (Nov 2020 - Feb 2021)</h3>
+        <ul>
+            <li>Built customer relationships and guided clients through initial processes.</li>
+            <li>Skills: Fully bilingual English, CRM, Client Accounts, Client Relations.</li>
+        </ul>
+        <h3>Digital Marketing Specialist at Omaiwa Technologies (Mar 2020 - Feb 2021)</h3>
+        <ul>
+            <li>Adapted businesses to have a digital presence during the COVID pandemic.</li>
+            <li>Skills: Fully bilingual English, Online Campaign Management, Attention to Detail, Presentation Skills, CRM, Analytical Skills.</li>
+        </ul>
+        <h3>Customer Success Manager at Okeanos Ba Marina (Aug 2018 - Dec 2019)</h3>
+        <ul>
+            <li>Redesigned room maintenance services to maximize profit and focus on ecological gains.</li>
+            <li>Skills: Fully bilingual English, Client Accounts.</li>
+        </ul>
+        <h3>Marketing Specialist at RISCO Group (Sep 2018 - May 2019)</h3>
+        <ul>
+            <li>Developed a marketing plan and built a community on social media.</li>
+            <li>Skills: Fully bilingual English, Presentation Skills.</li>
+        </ul>
+        <h3>Sales Manager at Desigual (Aug 2018 - Nov 2018)</h3>
+        <ul>
+            <li>Managed sales and created marketing campaigns during a summer internship.</li>
+            <li>Skills: Social Media, Presentation Skills.</li>
+        </ul>
+    </section>
+
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <p>"Joel's analytical skills and strategic thinking significantly boosted our marketing ROI. His dedication and expertise are unparalleled." – Colleague at Singular One</p>
+        <p>"Joel's ability to optimize content and lead successful campaigns was instrumental in our growth." – Supervisor at Decido</p>
+        <p>"Joel's learning speed and work ethic are remarkable. The experience he gained in two years is comparable to what most people achieve in four years. He is a fast learner and has a superb work ethic." – Manager</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: joelabadi23@gmail.com<br>
+        Phone: 0587603529<br>
+        Location: Tel Aviv, Israel</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Joel Abadi</p>
+    </footer>
+</body>
+</html>
